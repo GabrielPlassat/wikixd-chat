@@ -1,0 +1,10 @@
+{
+  "date_aspiration": "2026-10-30 15:27 UTC",
+  "source": "export XML (export_fusion.xml)",
+  "modele_embeddings": "bge-m3",
+  "mode_test": false,
+  "nb_pages": 4860,
+  "nb_passages": 11598,
+  "dimension": 1024,
+  "nb_fichiers_embeddings": 2
+}
